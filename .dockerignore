@@ -1,0 +1,21 @@
+# Ignore Python cache & logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore large models (if any)
+models/
+*.onnx
+*.safetensors
+*.bin
+
+# Ignore system files
+.DS_Store
+.idea/
+.vscode/
+node_modules/
