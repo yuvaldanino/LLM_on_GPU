@@ -1,8 +1,9 @@
 # 🚀 Custom LLM API – Optimized & Self-Hosted AI Model  
 
 ## 🔥 Overview  
-This project is a **fully self-hosted, optimized AI inference API** that runs a custom **Large Language Model (LLM)** on personal hardware.  
-By leveraging **TVM, vLLM, and XLA**, the model is highly efficient, making it a **cost-effective alternative to expensive commercial LLM APIs** like OpenAI's.
+This project is a **fully self-hosted, optimized AI inference API** that runs a custom **Large Language Model (LLM)** on personal hardware. 
+With support for TVM, vLLM, XLA, ONNX, and DirectML, the API enables real hardware-aware optimization and efficient inference across NVIDIA, AMD, CPU, and TPU-compatible systems.
+The model is highly efficient, making it a **cost-effective alternative to expensive commercial LLM APIs** like OpenAI's.
 
 ### **🔹 Why This is Useful**
 Many businesses and developers rely on cloud-based LLM APIs like OpenAI, which can be expensive and require constant internet access.  
